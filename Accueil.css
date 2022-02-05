@@ -132,4 +132,7 @@ footer a {
 
 @media(max-width:900px) {
 		article>img {display:none;}
+		h1 {font-size:26px;}
+		nav {font-size:12px;}
+		body { width:100%;}
 }

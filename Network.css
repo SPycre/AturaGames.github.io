@@ -85,6 +85,7 @@ article {
 article>img {
 		width:60%;
 		float:right;
+		max-height:150%;
 }
 article>div {
 		padding:2.5%;
@@ -125,4 +126,7 @@ footer a {
 		}
 		article>div>h2 {margin:0;}
 		article {flex-direction:column;}
+		h1 {font-size:26px;}
+		nav {font-size:12px;}
+		body { width:100%;}
 }
